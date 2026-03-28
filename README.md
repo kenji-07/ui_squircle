@@ -1,18 +1,18 @@
-# story_box
+# ui_squircle
 
-A Flutter package for creating story-style UI (like Instagram / Facebook stories).
+A Flutter package for creating smooth squircle shapes, borders, and decorations.
 
 ## Features
 
-- Story view
-- Inline story items
-- Custom duration
-- Gesture navigation
+- Smooth squircle borders
+- Smooth border radius support
+- ShapeDecoration support
+- Easy integration with Flutter widgets
 
 ## Getting started
 
-Add this to your pubspec.yaml:
+Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  story_box: ^0.0.1
+  ui_squircle: ^0.0.1
